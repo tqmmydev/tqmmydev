@@ -1,6 +1,6 @@
 <h1 align="center"><samp>Building the excellence 🙌</samp></h1>
 
-<h2 align="center">Hi 👋 I'm Tommaso Masetta</h2> 
+<h2 align="center"><samp>Hi 👋 I'm Tommaso Masetta</samp></h2> 
 
 <h3 align="center"><samp>A full-stack and mobile developer from Italy,<br><i>but that's not all</i></samp></h3>
 
@@ -12,24 +12,24 @@
 
 <samp>- 📫 Reach me at masettatommaso@gmail.com</samp>
 
-<h1>✨ My experiences</h1>
+<h1><samp>✨ My experiences</samp></h1>
 
-<li>Fullstack developer</li>
-<li>Flutter developer</li>
-<li>Project Manager</li>
-<li>Telegram bot developer</li>
-<li>System Admin</li>
+<li><samp>Fullstack developer</samp></li>
+<li><samp>Flutter developer</samp></li>
+<li><samp>Project Manager</samp></li>
+<li><samp>Telegram bot developer</samp></li>
+<li><samp>System Admin</samp></li>
 
-<h3><samp> What I did</samp></h3>
+<h3><samp>🦾 What I did</samp></h3>
 
-<li>Thousands of websites</li>
-<li>REST API</li>
-<li>Some Flutter applications for myself, I published a few of them</li>
-<li>Made a lot of telegram bots, I published some of them too</li>
-<li>Hosted all of my services by myself</li>
-<li>Managed databases and network</li>
-<li>Virtualized environment</li>
-<li>A lot of other tools</li>
+<li><samp>Thousands of websites</samp></li>
+<li><samp>REST API</samp></li>
+<li><samp>Some Flutter applications for myself, I published a few of them</samp></li>
+<li><samp>Made a lot of telegram bots, I published some of them too</samp></li>
+<li><samp>Hosted all of my services by myself</samp></li>
+<li><samp>Managed databases and network</samp></li>
+<li><samp>Virtualized environment</samp></li>
+<li><samp>A lot of other tools</samp></li>
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
