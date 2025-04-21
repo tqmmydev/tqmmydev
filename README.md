@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋 I'm Tommaso Masetta</h2> 
 
-<h3 align="center"><samp>A fullstack and mobile developer from Italy,<br><i>but that's not all</i></samp></h3>
+<h3 align="center"><samp>A full-stack and mobile developer from Italy,<br><i>but that's not all</i></samp></h3>
 
 <img align="center" alt="Coding" width="1000" src="https://github.tqmmy.it/developer_working.gif">
 
