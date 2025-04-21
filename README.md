@@ -24,8 +24,8 @@
 
 <li>Thousands of websites</li>
 <li>REST API</li>
-<li>Some Flutter application for myself and I published a few of them</li>
-<li>Made a lot of bot telegram, I published some of them too</li>
+<li>Some Flutter applications for myself, I published a few of them</li>
+<li>Made a lot of telegram bots, I published some of them too</li>
 <li>Hosted all of my services by myself</li>
 <li>Managed databases and network</li>
 <li>Virtualized environment</li>
