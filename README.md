@@ -6,7 +6,7 @@
 
 <img align="center" alt="Coding" width="1000" src="https://github.tqmmy.it/developer_working.gif">
 
-<p align="left"><img src="https://github.tqmmy.it/api/visit-count?username=tqmmydev"></p>
+<p align="left"><img src="https://github.tqmmy.it/api/visit-count"></p>
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/tqmmydev/</samp>
 
