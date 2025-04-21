@@ -10,7 +10,7 @@
 
 <samp>- 📫 Reach me at masettatommaso@gmail.com</samp>
 
-<h1><samp>✨ My experiences</samp></h1>
+<h3><samp>✨ My experiences</samp></h3>
 
 <li><samp>Fullstack developer</samp></li>
 <li><samp>Flutter developer</samp></li>
