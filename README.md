@@ -127,5 +127,5 @@
 
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/tqmmydev"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="tqmmydev-buymeacoffe" /></a>
+<a href="https://www.buymeacoffee.com/tqmmydev" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="tqmmydev-buymeacoffe" /></a>
 </p>
